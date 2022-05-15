@@ -13,7 +13,7 @@
 ### Clone Repository
 
 - GitHub のアカウントがある人: このリポジトリを Fork -> clone してください
-- GitHUb のアカウントがない人: GitHub から `Download Zip` からフォルダをダウンロードしてください
+- GitHUb のアカウントがない人: GitHub の `Download Zip` からフォルダをダウンロードしてください
 
 ![github-zip-download](https://user-images.githubusercontent.com/39449357/168466256-1f4269c0-6b56-43b9-b6ab-bfbc4e5f46d0.png)
 
