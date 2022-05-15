@@ -17,9 +17,11 @@
 
 ### Run Container
 
-1. `variables.env` に AtCoder の `${USER_NAME}`, `${PASSWORD}` を追加します
+1. `Dockerfile` に AtCoder の `${USER_NAME}`, `${PASSWORD}` を追加します
 2. ダウンロードしたフォルダを VSCode で開きます
 3. [【2022 年版】VSCode + Docker で最強の Python 開発環境を構築する【Remote Development】](https://www.true-fly.com/entry/2021/12/08/073000) を見ながら、`Open Folder in Container...` を実行します
+
+⚠️ Dockerfile にほんとは ENV ファイルから環境変数渡したい...方法知ってる方いたら PR 待ってます 🙏
 
 ### Run Existing Code
 
