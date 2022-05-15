@@ -1,0 +1,9 @@
+{
+  "name": "Python3.9_dev",
+  "dockerFile": "../Dockerfile",
+  "extensions": [
+    "ms-python.python",
+    "ms-python.vscode-pylance"
+  ],
+  "forwardPorts": [9000]
+}
