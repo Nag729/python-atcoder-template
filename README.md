@@ -28,6 +28,8 @@
 ⚠️ Dockerfile は `.gitignore` できなかったので、Public Repository に認証情報をアップロードしないように注意してください.  
 (ほんとは Dockerfile に `.env` から環境変数渡したい...方法わかる方いたら修正 PR 待ってます 🙏)
 
+:bulb: Windows で　 Docker が起動できない場合は https://takabus.com/tips/326/ から WSL をダウンロードしてください
+
 ### :four: Run Sample Code
 
 1. `abc081_a.py` を開きます
