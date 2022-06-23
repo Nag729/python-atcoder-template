@@ -21,8 +21,8 @@
 
 ### :three: Run Container
 
-1. `Dockerfile` に AtCoder の `${USER_NAME}`, `${PASSWORD}` を追加します
-2. ダウンロードしたフォルダを VSCode で開きます
+1. ダウンロードしたフォルダを VSCode で開きます
+2. `Dockerfile` に AtCoder の `${USER_NAME}`, `${PASSWORD}` を追加します
 3. [【2022 年版】VSCode + Docker で最強の Python 開発環境を構築する【Remote Development】](https://www.true-fly.com/entry/2021/12/08/073000) を見ながら、`Open Folder in Container...` を実行します
 
 ⚠️ Dockerfile は `.gitignore` できなかったので、Public Repository に認証情報をアップロードしないように注意してください.  
