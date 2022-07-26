@@ -1,6 +1,6 @@
 # Python x AtCoder Template
 
-## :one: Download Software
+## :one: Install Docker & VSCode
 
 [【2022 年版】VSCode + Docker で最強の Python 開発環境を構築する【Remote Development】](https://www.true-fly.com/entry/2021/12/08/073000) を見て、以下の 3 つをインストールしてください
 
